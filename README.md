@@ -14,7 +14,7 @@ Game description:
 
 7.If the user gets directly on the random led then the user gets three points and the led increases in speed by 300ms
 
-8. After the user hits the button the score board will be shown on the board by lighting up the led’s right too left, and the goal is to fill up all 10 led’s
+8.After the user hits the button the score board will be shown on the board by lighting up the led’s right too left, and the goal is to fill up all 10 led’s
    
 9.Repeat till the user wins 
 
