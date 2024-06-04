@@ -11,7 +11,8 @@ After the user hits the button the score board will be shown on the board by lig
 Repeat till the user wins 
 Once the user wins play victory sound, and blink score board a couple of times before clearing the board. 
 Repeat
-Input/Output sheet
+
+Input/Output sheet:
 
 Slide switch (Turns the game on and off)
 Button(both) (Used to stop the cycling led to try and get points)
