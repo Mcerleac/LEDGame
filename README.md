@@ -1,5 +1,5 @@
 # LEDGame
-Game description
+Game description: 
 Turn the game on with the slide switch
 Game starts an chooses one random led to turn on
 Then the led’s start to cycle around the led ring
@@ -13,14 +13,10 @@ Once the user wins play victory sound, and blink score board a couple of times b
 Repeat
 Input/Output sheet
 
-Slide switch
-Turns the game on and off
-Button(both)
-Used to stop the cycling led to try and get points
-LED’s
-range(1-10), light up 1 random led white, cycle around the circle with a red led
-Speaker
-Play note when user wins game 
+Slide switch (Turns the game on and off)
+Button(both) (Used to stop the cycling led to try and get points)
+LED’s (range(1-10), light up 1 random led white, cycle around the circle with a red led)
+Speaker (Play note when user wins game)
 
 
 
