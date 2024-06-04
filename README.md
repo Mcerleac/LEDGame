@@ -1,5 +1,6 @@
 # LEDGame
 Game description: 
+
 1.Turn the game on with the slide switch
 
 2.Game starts an chooses one random led to turn on
