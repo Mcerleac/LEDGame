@@ -15,8 +15,11 @@ Repeat
 Input/Output sheet:
 
 Slide switch (Turns the game on and off)
+
 Button(both) (Used to stop the cycling led to try and get points)
+
 LED’s (range(1-10), light up 1 random led white, cycle around the circle with a red led)
+
 Speaker (Play note when user wins game)
 
 
