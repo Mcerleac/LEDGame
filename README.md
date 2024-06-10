@@ -9,19 +9,15 @@ Game description:
 
 4.The user must use the button to try and stop the light on top of the random led
 
-5.If the user gets two or more away from the random led then they get no points and the led does not increase in speed
+5.If the user gets directly on the random led then the user gets 1 point and the led increases in speed by 100ms
 
-6.If the user gets one away from the random led they get one point and the led increases in speed by 100ms
-
-7.If the user gets directly on the random led then the user gets three points and the led increases in speed by 300ms
-
-8.After the user hits the button the score board will be shown on the board by lighting up the led’s right too left, and the goal is to fill up all 10 led’s
+6.After the user hits the button the score board will be shown on the board by lighting up the led’s right too left, and the goal is to fill up all 10 led’s
    
-9.Repeat till the user wins 
+7.Repeat till the user wins 
 
-10.Once the user wins play victory sound, and blink score board a couple of times before clearing the board. 
+8.Once the user wins play victory sound, and clears the board. 
 
-11.Repeat
+9.Repeat
 
 Input/Output sheet:
 
