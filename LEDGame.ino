@@ -85,7 +85,7 @@ void loop() {
         CircuitPlayground.setPixelColor(randLED, 255, 255, 255);
         delay(500);
         CircuitPlayground.clearPixels();
-        rightButtonFlag = false;
+        rightButtonFlag = false;//Set Buttons Back too false
         leftButtonFlag = false; 
       }
     }
